@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+img {
+    display: block;
+    margin: auto;
+}
+#starters_image_div > img{
+    border: 10px solid blue;
+}
+
+#bulbasaur_container{
+    margin: 10%;
+    padding: 50px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background-color: lime;
+}
+#charmander_container{
+    margin: 10%;
+    padding: 50px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background-color:orange;
+}
+
+
+#squirtle_container{
+    margin: 10%;
+    padding: 50px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background-color:cyan;
+}
